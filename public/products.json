@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "name": "Whey Protein Powder",
+        "description": "Our high-quality whey protein powder is perfect for building muscle and recovering after workouts.",
+        "image": "./whey.jpg",
+        "price": 39.99,
+        "quantity": 1
+    },
+    {
+        "id": 2,
+        "name": "Whey Isolate Supplement",
+        "description": "This whey-isolate supplement is designed to give you the energy and focus you need to power through your workouts.",
+        "image": "./whey-isolate.jpg",
+        "price": 29.99,
+        "quantity":2
+    },
+    {
+        "id": 3,
+        "name": "Meal Replacement Blend",
+        "description": "Our meal replacement blend is perfect for helping to provide enough protein without a healthy diet and support muscle growth.",
+        "image": "./meal-replacement.jpg",
+        "price": 24.99,
+        "quantity":3
+    }
+]
