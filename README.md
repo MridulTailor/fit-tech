@@ -12,6 +12,7 @@ FitTech is a comprehensive web application designed to revolutionize your fitnes
 ## Tech Stack
 
 - Frontend: React
+- UI library: Tailwind
 - Backend: Django, Python, FastAPI
 - Server: Uvicorn
 - Voice Input: Speechly, react-speech-recognition
